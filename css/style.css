@@ -1,0 +1,27 @@
+.blue {
+  background-color:#ADD8E6;
+  font-family:"monospace";
+  font-size:35px;
+}
+
+.green {
+  color:rgb(3, 140, 0);
+  font-family:"arial";
+  font-size:20px;
+}
+.div {
+    float:center;
+    text-align:center;
+}
+.purpletext {
+  color:#0067C6;
+  font-size:15px;
+}
+.bluebackground{
+  background-color:#D6FFF2
+
+}
+
+body {
+  margin-top: 50px
+}
